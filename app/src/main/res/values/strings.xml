@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TD02</string>
+    <string name="txtWelcomeApp">Bienvenue !</string>
+    <string name="txtExplainApp">Veuillez entrer un interval pour jouer</string>
+    <string name="txtExplainButtons">Choisissez un jeu !</string>
+    <string name="btnJeu1">JEU 1</string>
+    <string name="btnJeu2">JEU 2</string>
+    <string name="txtScore">Votre score :</string>
+    <string name="minimum">Minimum</string>
+    <string name="maximum">Maximum</string>
+
+    <string name="txtWelcomeJeu1">JEU 1 !</string>
+    <string name="txtExplainJeu1">"Devinez le nombre ! \n Celui-ci ce trouve dans l\'interval que vous avez donné."</string>
+    <string name="btnDeviner">Deviner !</string>
+    <string name="txtScoreJeu1">Essais restant : </string>
+</resources>
